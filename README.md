@@ -1,4 +1,4 @@
-# Visual-Cryptography
+# VisualCryptography
 2016/17 Final Year Project, University of Leeds
 
 An implementation of various visual cryptography schemes, written in C++. The GUI was
